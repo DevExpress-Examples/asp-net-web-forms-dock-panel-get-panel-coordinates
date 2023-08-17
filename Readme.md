@@ -11,7 +11,7 @@
 <!-- default file list end -->
 # ASPxDockPanel - How to get coordinates of ASPxDockPanel
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4562/)**
+**[[Run Online]](https://codecentral.devexpress.com/128554385/)**
 <!-- run online end -->
 
 
