@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # Dock Panel for ASP.NET Web Forms - How to get coordinates of a panel
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128554385/)**
-<!-- run online end -->
 
 This example shows how to get [ASPxDockPanel](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxDockPanel) coordinates on the client side. Calculation of the coordinates is executed in the client-side [Click](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxButton.Click) event of [ASPxButton](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxButton).
 
